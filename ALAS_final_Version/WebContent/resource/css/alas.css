@@ -1,0 +1,28 @@
+.headerFix{
+   position:fixed;
+   top:0;
+   width:100%;
+   height:30px;   /* Height of the footer */
+   background:#A4A4A4;
+}
+.headerTable {
+	border: 0px solid #FFFFFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.headerTableTd {
+	border: 0px solid #FFFFFF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.footerFix{
+   position:fixed;
+   bottom:0;
+   width:100%;
+   height:33px;   /* Height of the footer */
+   background:#A4A4A4;
+}
